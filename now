@@ -1,2 +1,3 @@
 git reset HEAD --filename
 git reset HEAD --filename
+git merge test
