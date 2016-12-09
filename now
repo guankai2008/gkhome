@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 我已经 已经把我伤口化为泪水
 我的泪水已经早已轮回
 分手上了谁
 谁把谁变美
 我的眼里写成了诗一首无所谓
+=======
+git reset HEAD --filename
+git reset HEAD --filename
+git merge test
+>>>>>>> branchT2
